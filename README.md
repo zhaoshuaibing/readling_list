@@ -7,6 +7,12 @@
 
 3.《将心注入》
 
-4.《Developing iOS11 Apps with Swift》
+4.《谁说菜鸟不会数据分析》
 
-5.《谁说菜鸟不会数据分析》
+5.《界与面》
+
+6.《Developing iOS11 Apps with Swift》
+
+7.《Swift Apprentice 3rd Edition》
+
+8.《iOS Apprentice v6》
